@@ -1,0 +1,34 @@
+.flex-parent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.flex-child {
+  /*  flex: 1 0 21%; */  /* grow, shrink, basis=21% */
+}
+
+.card {
+  background-color: silver;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 250px;
+  margin: 20px;
+  text-align: center;
+  font-family: arial;
+  z-index: 101;
+}
+
+.card p {
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.h2 {
+  color: #800020;
+}
+.h1 {
+  color: white;
+}
+.h3 {
+  color: silver;
+}

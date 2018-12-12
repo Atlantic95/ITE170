@@ -1,0 +1,58 @@
+/* This is the stylesheet where all the CSS should go */
+/* Do not change any of the code that is already here */
+
+body{
+	background-color: #cccccc;
+	padding: 2em;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	padding: 1em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1em;
+    overflow: hidden;
+    background-color: #e345c3;
+}
+
+li {
+    float: left;
+    margin-right: 4.0em;
+}
+
+
+/* The styling that you add should go below here */
+
+h1 {
+    font-size: 20px;
+		color: blue;
+		text-align: center;
+}
+
+h2 {
+   font-size: 16px;
+	 color: red;
+	 text-align: center;
+}
+
+footer {
+	 font-size: 10px;
+	 color: green;
+	 text-align: center;
+}
+
+p {
+	font-size: 12px;
+	line-height: 20px;
+}
+
+.favorite {
+	background-color: yellow;
+}

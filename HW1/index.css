@@ -1,0 +1,32 @@
+/* this is a comment */
+
+.content {
+  max-width: 600px;
+  margin: 0 auto;
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+  padding: 60px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.red {
+  color: red;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-brown {
+  color: brown;
+}
